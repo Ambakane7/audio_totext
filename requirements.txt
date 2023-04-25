@@ -1,0 +1,8 @@
+streamlit==1.7.0
+
+speechrecognition
+newspaper3k
+gtts
+pydub
+ffmpeg
+PyAudio==0.2.11
